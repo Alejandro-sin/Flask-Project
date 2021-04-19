@@ -39,6 +39,46 @@ Im base on...
 
 
 
+## NOTAS
+
+—> pip
+
+flask
+
+flask-wtf : Crear formularios
+
+pyhton dotenv me permite manejar variables de entorno.
+
+pip install python-dotenv
+
+flask run para correr
+
+
+
+Creación de links y Routing patterns
+
+* Crear menu de navegación
+* Usar elfunción url_for para resolver los links
+Usar decorador de route para juntarlo a una función con una o más patrones de url.
+
+Delimitadores de Jinja 
+{%...%} Statemens
+{{...}} Expresiones
+{#...#} Comments
+
+
+
+## APLICACIÓN
+
+## PREGUNTAS
+
+- ¿?
+- ¿?
+- ¿?
+
+## REFERENTES
+
+
 
 
 
