@@ -58,7 +58,12 @@ flask run para correr
 Creación de links y Routing patterns
 
 * Crear menu de navegación
+
 * Usar elfunción url_for para resolver los links
+url_for() Esta dentro dle menu de navegación en el atributo href, me va a servir para que en caso
+.... quedan dudas con esta función.
+
+
 Usar decorador de route para juntarlo a una función con una o más patrones de url.
 
 Delimitadores de Jinja 
